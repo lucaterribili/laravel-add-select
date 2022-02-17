@@ -1,12 +1,11 @@
 {
-    "name": "lorisleiva/laravel-add-select",
+    "name": "lucaterribili/laravel-add-select",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Loris Leiva",
-            "email": "loris.leiva@gmail.com",
-            "homepage": "https://lorisleiva.com"
+            "name": "Luca Terribili",
+            "email": "dottorlucaterribili@gmail.com"
         }
     ],
     "require": {
@@ -17,18 +16,18 @@
     },
     "autoload": {
        "psr-4": {
-            "Lorisleiva\\LaravelAddSelect\\": "src"
+            "lucaterribili\\LaravelAddSelect\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Lorisleiva\\LaravelAddSelect\\Tests\\": "tests"
+            "lucaterribili\\LaravelAddSelect\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Lorisleiva\\LaravelAddSelect\\ServiceProvider"
+                "lucaterribili\\LaravelAddSelect\\ServiceProvider"
             ]
         }
     },

@@ -7,7 +7,7 @@ If you're not familiar with subSelect queries, I strongly recommend [this articl
 ## Installation
 
 ```bash
-composer require lorisleiva/laravel-add-select
+composer require lucaterribili/laravel-add-select
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 <?php
 
-namespace Lorisleiva\LaravelAddSelect;
+namespace lucaterribili\LaravelAddSelect;
 
 use Illuminate\Support\Str;
 
