@@ -1,10 +1,10 @@
 <?php
 
-namespace Lorisleiva\LaravelAddSelect;
+namespace lucaterribili\LaravelAddSelect;
 
 use Exception;
 use Illuminate\Database\Eloquent\Builder;
-use Lorisleiva\LaravelAddSelect\AddSubSelects;
+use lucaterribili\LaravelAddSelect\AddSubSelects;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
 class ServiceProvider extends BaseServiceProvider
